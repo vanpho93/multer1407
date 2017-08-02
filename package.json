@@ -6,7 +6,9 @@
   "author": "Van Pho Nguyen <vanpho02@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "ejs": "^2.5.7",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "multer": "^1.3.0"
   }
 }
